@@ -1,0 +1,70 @@
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+.col-2 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.img1 {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.container {
+  padding-top: 25px;
+}
+.card {
+  background-color: aquamarine;
+}
+body {
+  background-color: #c4f54d;
+}
+
+form {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+ul {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  list-style: none;
+}
+li {
+  color: grey;
+  font-size: 35px;
+}
+.emoji {
+  font-size: 100px;
+  vertical-align: middle;
+  line-height: 2;
+}
+.col-a {
+  display: inline-block;
+  border: none;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.weather-info {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  color: grey;
+  text-align: center;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size: 20px;
+}
+/*.CF {
+  font-weight: 600;
+  font-size: 50px;
+}*/
+.temperature {
+  font-weight: 600;
+  font-size: 50px;
+}
